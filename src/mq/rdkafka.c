@@ -41,7 +41,7 @@
 
 
 /* @cond NO_DOC */
-module deimos.rdkafka;
+module rdkafka;
 
 import core.stdc.stdio;
 import core.stdc.ctype;
